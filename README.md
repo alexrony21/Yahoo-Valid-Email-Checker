@@ -20,9 +20,8 @@ This tool allows you to check if an email is registered with Yahoo.com and wheth
 
 ## Contact
 
-If you would like to purchase this tool or have any inquiries, feel free to contact me via Telegram at:  
-**[@alexrony21](https://t.me/alexrony21)**
+If you would like to purchase this tool or have any inquiries, feel free to contact me via Telegram: [@thepythoncode97](https://t.me/thepythoncode97)
 
----
 
-Thank you
+## Note:
+This tool is designed for marketers and businesses. If you engage in any illegal activities using this tool, the author will not take any responsibility.
